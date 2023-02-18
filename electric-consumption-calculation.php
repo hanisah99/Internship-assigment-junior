@@ -96,7 +96,7 @@ div{
     <title>Calculate electricity rate</title>
 </head>
 <body>
-<h2 >Calculate Electricity Consumption</h2>
+<h2 style="text-align: center;">Calculate Electricity Consumption</h2>
 <form  method = "post" style="      margin: auto;
   width: 50%;
   border: 3px solid #1E5162;
