@@ -111,7 +111,7 @@ div{
   <label for="currentrate">Current Rate</label><br>
   <input type="number" step = "any" id="currentrate" name="currentrate" required><br><br>
   
-  <input type="submit" value="Calculate" class="button-30"><br><br>
+  <input class="button-30" type="submit" value="Calculate" ><br><br>
 
   </form><br>
 
